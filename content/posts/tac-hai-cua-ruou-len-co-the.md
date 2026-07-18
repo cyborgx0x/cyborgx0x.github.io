@@ -107,8 +107,16 @@ trực tiếp với phần đường ruột và hấp thụ dinh dưỡng ở m�
 
 ## Cơ bắp, giấc ngủ và phục hồi sau vận động
 
-Với người tập luyện, rượu tác động vào đúng những khâu quyết định việc cơ thể có
-phục hồi và xây cơ được hay không. Một nghiên cứu của Parr và cộng sự công bố năm
+Với người tập luyện nghiêm túc, đây có lẽ là phần đáng lo nhất, vì giá trị của
+một buổi tập nặng không nằm ở lúc tập mà ở khoảng phục hồi sau đó — và rượu tấn
+công gần như mọi khâu của khoảng phục hồi ấy cùng một lúc. Nó chặn tổng hợp
+protein cơ, làm chậm nạp lại glycogen, đẩy cán cân nội tiết sang hướng phân rã cơ,
+và cắt mất phần giấc ngủ sâu nơi cơ thể tự sửa chữa. Hệ quả là công sức đổ vào
+phòng tập có thể phần lớn không được đền đáp, một cái giá thường vô hình vì nó
+biểu hiện dưới dạng tiến bộ chậm lại chứ không phải một chấn thương nhìn thấy được.
+
+Rượu tác động vào đúng những khâu quyết định việc cơ thể có phục hồi và xây cơ
+được hay không. Một nghiên cứu của Parr và cộng sự công bố năm
 2014 trên PLOS One đo được rằng khi uống rượu sau tập, tốc độ tổng hợp protein cơ
 giảm khoảng 24% ở nhóm dùng kèm protein và khoảng 37% ở nhóm dùng kèm
 carbohydrate, so với chỉ dùng protein — và mức giảm này xảy ra dù người tập đã nạp
@@ -127,6 +135,33 @@ Rượu còn phá phần phục hồi diễn ra trong giấc ngủ. Nó giúp ng
 rút ngắn giấc ngủ sâu và giấc ngủ REM ở nửa sau đêm, vốn là khoảng thời gian cơ
 thể tiết nhiều hóc-môn tăng trưởng và sửa chữa mô. Hệ quả là một đêm uống rượu có
 thể mang lại đủ số giờ ngủ nhưng thiếu giá trị phục hồi thực sự.
+
+## Cái giá cho người tập luyện và cách giảm thiệt hại
+
+Gộp bốn cơ chế trên lại, có thể rút ra một hệ quả đáng lưu tâm: một buổi uống
+nhiều ngay sau một buổi tập nặng có thể khiến phần lớn công phục hồi của buổi tập
+đó không diễn ra cho tới đêm không cồn kế tiếp. Buổi tập vẫn để lại mệt mỏi và vi
+chấn thương, nhưng gần như không được đền đáp bằng thích nghi và tăng cơ. Cần nói
+thẳng rằng đây là một suy luận tổng hợp từ các cơ chế đã dẫn ở trên, không phải
+một con số đo trực tiếp; song hướng tác động thì nhất quán giữa các nghiên cứu, và
+đủ để xem việc uống rượu quanh ngày tập nặng là một khoản đánh đổi thực sự chứ
+không phải chuyện nhỏ.
+
+Điều đáng mừng là phần lớn thiệt hại cấp tính này có thể giảm bớt bằng vài lựa
+chọn đơn giản. Nếu vẫn uống, việc tách lần uống ra khỏi những ngày tập nặng nhất
+giúp tránh dồn tác động vào đúng cửa sổ phục hồi quan trọng, và nên tránh những
+buổi đòi hỏi kỹ thuật hoặc phát lực vào ngày hôm sau, khi khả năng huy động thần
+kinh–cơ còn suy giảm. Quanh một lần uống, việc bù nước và điện giải trước khi ngủ,
+ưu tiên ngủ sâu và ngủ sớm thay vì cố vận động cường độ cao làm mất nước thêm, và
+bổ sung đủ vitamin nhóm B, kẽm cùng magiê — những vi chất bị rượu làm cạn — đều
+giúp hạn chế tổn thất. Sang ngày không cồn kế tiếp, ăn đủ đạm và tinh bột giúp
+khởi động lại quá trình tổng hợp protein và nạp lại glycogen.
+
+Điểm mấu chốt về lâu dài không nằm ở một lần uống đơn lẻ mà ở tần suất: những rủi
+ro nghiêm trọng nhất, gồm ung thư, bệnh tim mạch và bệnh gan, tích lũy theo tổng
+lượng và số lần uống qua thời gian. Các gợi ý trên chỉ giúp giảm thiệt hại cấp
+tính quanh một lần uống, không xóa được rủi ro tích lũy, và không thay thế tư vấn
+y tế cá nhân.
 
 ## Đường ruột, hấp thụ dinh dưỡng và miễn dịch
 
