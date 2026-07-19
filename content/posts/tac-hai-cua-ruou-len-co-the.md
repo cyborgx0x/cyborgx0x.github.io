@@ -69,7 +69,7 @@ Hiểu khâu này thì mọi tác hại phía dưới đều suy ra được.
 ## 6. Tim mạch và sự sụp đổ của huyền thoại "uống điều độ tốt cho tim"
 
 - Rượu nặng gây **bệnh cơ tim (cardiomyopathy), rối loạn nhịp, tăng huyết áp**.
-- **Huyền thoại "một ly rượu vang mỗi ngày tốt cho tim" đã lỗi thời.** Nghiên cứu JAMA 2024 theo dõi hơn 135.000 người ≥60 tuổi cho thấy **ngay cả uống điều độ cũng gắn với tỷ lệ tử vong cao hơn**, phần lớn do ung thư và bệnh tim mạch. Bằng chứng di truyền (Mendelian randomization) cho thấy rủi ro tim mạch tăng từ mức uống nhẹ và **tăng theo cấp số nhân** khi uống nhiều. World Heart Federation: **không có lượng rượu nào là tốt cho tim.**
+- **Huyền thoại "một ly rượu vang mỗi ngày tốt cho tim" đã lỗi thời.** Nghiên cứu JAMA Network Open 2024 theo dõi hơn 135.000 người uống rượu **≥60 tuổi có sẵn yếu tố nguy cơ về sức khỏe hoặc kinh tế–xã hội** cho thấy **ngay cả mức uống thấp cũng gắn với tỷ lệ tử vong cao hơn ở nhóm này** (uống rượu vang hoặc uống trong bữa ăn làm giảm bớt phần rủi ro tăng thêm). Bằng chứng di truyền (Mendelian randomization) cho thấy rủi ro tim mạch tăng từ mức uống nhẹ và **tăng theo cấp số nhân** khi uống nhiều. World Heart Federation: **không có lượng rượu nào là tốt cho tim.**
 
 *Nguồn: JAMA 2024; Stanford Report 2025; World Heart Federation; Harvard Health.*
 
