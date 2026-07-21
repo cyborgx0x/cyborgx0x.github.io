@@ -61,6 +61,15 @@ Mục tiêu của cả nghề làm sô cô la là **ép bơ ca cao kết tinh v�
 
 Nếu để bơ ca cao nguội tự do, nó rơi vào các dạng kém bền (III/IV): thanh sô cô la xỉn màu, mềm nhũn, dính tay, dễ lên "mốc" mỡ. Đó chính là lý do phải [temper](/posts/temper-socola-cac-phuong-phap/).
 
+## Vì sao bơ ca cao đa hình đến vậy — góc phân tử
+
+Điều làm bơ ca cao đặc biệt là thành phần **triglyceride khá đồng đều**: phần lớn là ba loại chất béo (POP, POS, SOS — kết hợp của axit palmitic, oleic, stearic) có hình dạng phân tử tương tự nhau. Chính sự đồng đều này cho phép các phân tử xếp chồng theo **nhiều kiểu khác nhau nhưng đều tương đối trật tự** — mỗi kiểu xếp là một dạng thù hình.
+
+- Các phân tử có thể xếp thành lớp **đôi (double)** hoặc **ba (triple)**, và nghiêng ở các góc khác nhau. Dạng V (β) là kiểu xếp ba lớp chặt và đều nhất trong các dạng còn ổn định ở nhiệt độ phòng.
+- Nguyên tắc chung của đa hình chất béo: **kết tinh càng nhanh (làm nguội gấp) càng cho dạng lỏng lẻo, kém bền**; muốn dạng chặt và bền thì phải cho phân tử thời gian và điều kiện nhiệt để "xếp hàng" đúng. Đây chính là nền của việc temper.
+
+So sánh giúp thấy bơ ca cao đặc biệt tới đâu: nhiều chất béo thực vật khác (như dầu nhân cọ dùng trong compound) chỉ có **một dạng bền duy nhất** và kết tinh thẳng vào đó — tiện nhưng không có được điểm nóng chảy "vừa khít thân nhiệt" của Dạng V.
+
 ## Hiện tượng "bloom" (mốc sô cô la)
 
 Lớp trắng đục hay thấy trên sô cô la cũ **không phải nấm mốc**, mà là kết tinh sai:

@@ -24,6 +24,15 @@ Ca cao thương mại thường được chia làm ba nhóm chính. Cần lưu �
 
 Ngoài ra còn **Nacional** (Ecuador) nổi tiếng với hương "Arriba" hoa cỏ. Ý cốt lõi: sản lượng thế giới gần như toàn Forastero, còn hương vị tinh tế nằm ở Criollo và Trinitario — đây là "nguyên liệu gốc" quyết định trần chất lượng, trước cả khâu chế biến.
 
+<div class="callout is-note">
+<div class="callout-title">Vì sao cách chia "ba giống" chỉ nên coi là khung tương đối</div>
+<p>Nghiên cứu di truyền hiện đại (đáng chú ý là công trình của Juan Carlos Motamayor và cộng sự) đã chia ca cao thành khoảng <strong>mười nhóm di truyền</strong> theo vùng Amazon, cho thấy đa dạng thực sự lớn hơn nhiều so với bộ ba truyền thống. "Criollo – Forastero – Trinitario" là cách gọi lịch sử tiện dụng để nói về hương vị và thương mại, nhưng không phản ánh đúng cây phả hệ di truyền. Khi đọc mô tả sản phẩm, nên hiểu các nhãn này là chỉ dấu về phong cách hương chứ không phải phân loại sinh học chặt chẽ.</p>
+</div>
+
+### Vì sao "nguyên liệu gốc" đặt ra trần chất lượng
+
+Chuỗi chế biến (rang, conching, temper) có thể **bộc lộ hoặc phá hỏng** hương vị, nhưng gần như không thêm được nốt hương mà giống và khâu lên men chưa tạo ra. Một giống giàu tiền chất hương như Criollo hay Trinitario tốt cho nhà làm nhiều "chất liệu" để làm việc; ngược lại, hạt Forastero đại trà lên men xoàng thì dù rang khéo đến đâu cũng khó vượt một mức trần nhất định. Đây là lý do các nhà bean-to-bar cao cấp đầu tư mạnh vào **chọn nguồn và kiểm soát lên men tại vườn**, chứ không chỉ vào máy móc ở xưởng.
+
 ## Marou — bean-to-bar của Việt Nam
 
 <div class="card-grid">

@@ -47,6 +47,11 @@ TocOpen: false
 
 Kỵ binh tiền La Mã và La Mã thiếu tổ hợp này, nên dù có kỵ binh nặng (cataphract), họ vẫn thiên về đâm chếch, phóng lao hoặc bắn cung, tránh cú húc trực diện. Cataphract của Byzantine thường được xem là **cầu nối** giữa hai thời đại và là tiền thân trực tiếp của hiệp sĩ phương Tây.
 
+<div class="callout is-note">
+<div class="callout-title">Một lưu ý: "giả thuyết bàn đạp" còn gây tranh cãi</div>
+<p>Lynn White Jr. (1962) từng lập luận rằng bàn đạp gần như một mình sinh ra chế độ phong kiến — hiệp sĩ mạnh nhờ bàn đạp, nên cần đất đai để nuôi, nên sinh ra quan hệ chư hầu. Giới sử học sau này (nổi bật là các phê bình quanh "Great Stirrup Controversy") cho rằng đây là <strong>thuyết quyết định luận công nghệ quá mạnh tay</strong>: kỵ binh xung kích, chế độ ban đất và tầng lớp chiến binh chuyên nghiệp đều đã manh nha trước hoặc độc lập với bàn đạp. Cách hiểu cân bằng hơn là bàn đạp cùng yên cao là <strong>điều kiện cho phép</strong> cú xung phong giáo kẹp nách đạt tới đỉnh, chứ không phải nguyên nhân duy nhất tạo ra cả một trật tự xã hội.</p>
+</div>
+
 ## 3. Nghịch lý cốt lõi: sức mạnh cá nhân ngược chiều sức mạnh hệ thống
 
 | Chiều đo sức mạnh | Xếp hạng |

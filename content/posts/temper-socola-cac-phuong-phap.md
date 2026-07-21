@@ -61,6 +61,16 @@ Cùng nguyên lý nhưng con số lệch nhau vì sữa và đường trong côn
 </div>
 </div>
 
+## Vì sao ba nhịp nhiệt lại theo đúng thứ tự đó
+
+Trình tự nóng → nguội → hâm nhẹ không tùy tiện mà bám sát điểm nóng chảy của từng dạng thù hình (xem [thù hình của bơ ca cao](/posts/khoa-hoc-va-thu-hinh-bo-ca-cao/)):
+
+- **Nấu chảy trên ~45 °C** vượt điểm nóng chảy của cả Dạng V (~34 °C) lẫn Dạng VI (~36 °C), nên xóa sạch mọi mầm cũ — kể cả mầm bền còn sót. Không xóa hết thì mầm cũ lệch sẽ "gieo" sai cho cả mẻ.
+- **Hạ xuống ~27–28 °C** là vùng mà nhiều dạng cùng kết tinh, sinh ra hỗn hợp mầm bền và kém bền.
+- **Hâm lên ~31–32 °C** nằm *giữa* điểm nóng chảy của dạng kém bền (dưới ~28 °C) và của Dạng V (~34 °C): đủ nóng để **làm tan mầm kém bền** nhưng chưa đủ nóng để làm tan mầm Dạng V. Kết quả là chỉ còn lại mầm chuẩn để dẫn dắt toàn khối khi đông.
+
+Hiểu nguyên tắc này thì ba phương pháp dưới đây chỉ là ba cách *thực hiện* cùng một đường cong.
+
 ## Kiểm tra đã temper đạt hay chưa
 
 Phết một lớp mỏng lên mẩu giấy nến hoặc mũi dao, để ở ~20 °C: nếu sau **3–5 phút** sô cô la đông lại, bóng và bẻ gãy giòn thì mẻ đã temper đạt. Nếu còn dính, xỉn, lâu đông thì temper chưa đạt — cần làm lại từ bước nấu chảy.

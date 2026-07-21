@@ -47,6 +47,18 @@ TocOpen: false
 
 Chính vì CBS/CBR kết tinh thẳng vào một dạng bền, sản phẩm compound **không phải temper** — tiện cho sản xuất hàng loạt, nhưng mất đi "phản ứng hóa học" tạo nên sô cô la hảo hạng. Cơ sở hóa học của việc "phải temper" được trình bày trong bài [Thù hình của bơ ca cao](/posts/khoa-hoc-va-thu-hinh-bo-ca-cao/).
 
+## Vì sao công nghiệp chuộng compound — góc kinh tế
+
+Sự thay thế này không ngẫu nhiên mà bị chi phối bởi giá và tính tiện dụng:
+
+- **Bơ ca cao là phần đắt nhất của hạt.** Nó được ép tách ra và có thị trường riêng — mỹ phẩm, dược phẩm và sô cô la cao cấp đều tranh nhau mua, đẩy giá lên cao và biến động mạnh theo mùa vụ ca cao. Chất béo thay thế (dầu cọ, nhân cọ) rẻ hơn nhiều lần và giá ổn định hơn.
+- **Compound tha thứ cho sai sót và môi trường.** Không cần temper nghĩa là không cần kiểm soát nhiệt độ ngặt nghèo, chịu nóng tốt hơn khi vận chuyển ở xứ nóng, và hạ giá thành nhân công. Với bánh kẹo công nghiệp, topping, kẹo phủ giá rẻ, đây là lựa chọn hợp lý về sản xuất.
+- **Đánh đổi nằm ở trải nghiệm ăn.** Cái mất đi là điểm nóng chảy quanh thân nhiệt và tầng hương phức — thứ chỉ bơ ca cao mang lại.
+
+## Ghi nhãn: vì sao "compound" thường không được gọi thẳng là "chocolate"
+
+Ở nhiều nơi, quy định ghi nhãn tách bạch hai loại này. Chẳng hạn tại EU, một sản phẩm muốn gọi là "chocolate" phải dùng bơ ca cao; chỉ được thêm tối đa **5%** một số chất béo thực vật khác trong danh mục cho phép, và phải ghi rõ. Vượt ngưỡng đó thì không được gọi là sô cô la thuần túy mà phải mang tên khác như *chocolate flavoured coating* hay *compound*. Đây là lý do khi lật mặt sau gói kẹo phủ giá rẻ, ta thường thấy chữ "chế phẩm" hoặc "hương sô cô la" thay vì "sô cô la".
+
 ## Nhận biết nhanh khi mua
 
 <ul class="flow">
