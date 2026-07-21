@@ -1,0 +1,175 @@
+/* ==========================================================================
+   Thành phần trình bày dùng chung cho bài viết (artifact-style).
+   Dựa trên biến màu của PaperMod (--theme, --entry, --primary, --secondary,
+   --tertiary, --content, --border) để tự thích ứng chế độ sáng/tối.
+   ========================================================================== */
+
+:root {
+  --acc: #b2551f;          /* nâu ca cao / terracotta — tông nhấn */
+  --acc-2: #2f6f7a;        /* xanh mòng két — tông nhấn phụ */
+  --ok: #2e7d4f;
+  --warn: #b1730c;
+  --danger: #b23b3b;
+  --acc-soft: rgba(178, 85, 31, 0.10);
+}
+
+.dark {
+  --acc: #e2915b;
+  --acc-2: #6fb7c2;
+  --ok: #64c98a;
+  --warn: #e0b055;
+  --danger: #e08585;
+  --acc-soft: rgba(226, 145, 91, 0.12);
+}
+
+/* ---- Dẫn nhập bài viết ------------------------------------------------- */
+.post-lede {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--secondary);
+  background: var(--acc-soft);
+  border-left: 4px solid var(--acc);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0 1.6rem;
+}
+.post-lede p { margin: 0.4rem 0; }
+.post-lede p:first-child { margin-top: 0; }
+.post-lede p:last-child { margin-bottom: 0; }
+
+/* ---- Callout ----------------------------------------------------------- */
+.callout {
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--acc-2);
+  border-radius: 8px;
+  padding: 0.85rem 1.1rem;
+  margin: 1.4rem 0;
+  background: var(--entry);
+}
+.callout .callout-title {
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+}
+.callout.is-warn { border-left-color: var(--warn); }
+.callout.is-note { border-left-color: var(--acc-2); }
+.callout p:last-child { margin-bottom: 0; }
+
+/* ---- Lưới thẻ (cards) -------------------------------------------------- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.9rem;
+  margin: 1.4rem 0;
+}
+.card {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+}
+.card h4 {
+  margin: 0 0 0.5rem;
+  color: var(--acc);
+  font-size: 1rem;
+}
+.card p { margin: 0.3rem 0; font-size: 0.95rem; color: var(--content); }
+
+/* ---- Ô số liệu nổi bật ------------------------------------------------- */
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.9rem;
+  margin: 1.4rem 0;
+}
+.stat {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+}
+.stat .stat-num {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: var(--acc);
+  line-height: 1.1;
+}
+.stat .stat-label {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.85rem;
+  color: var(--secondary);
+}
+
+/* ---- Dòng chảy các bước (flow) ---------------------------------------- */
+.flow { list-style: none; padding: 0; margin: 1.4rem 0; counter-reset: flow; }
+.flow > li {
+  position: relative;
+  padding: 0.15rem 0 1.1rem 3rem;
+  border-left: 2px solid var(--border);
+  margin-left: 1.1rem;
+}
+.flow > li:last-child { border-left-color: transparent; padding-bottom: 0; }
+.flow > li::before {
+  counter-increment: flow;
+  content: counter(flow);
+  position: absolute;
+  left: -1.1rem;
+  top: 0;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 50%;
+  background: var(--acc);
+  color: #fff;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.95rem;
+}
+.flow > li .flow-title { font-weight: 700; color: var(--primary); }
+.flow > li .flow-body { color: var(--content); margin-top: 0.2rem; }
+
+/* ---- Nhãn (pill) ------------------------------------------------------- */
+.pill {
+  display: inline-block;
+  padding: 0.12rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  background: var(--acc-soft);
+  color: var(--acc);
+  border: 1px solid var(--acc);
+}
+
+/* ---- Nhấn mạnh trong bảng so sánh ------------------------------------- */
+.post-content table .row-hi { color: var(--acc); font-weight: 700; }
+
+/* ---- Sơ đồ chữ (ascii/diagram) ---------------------------------------- */
+.diagram {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  overflow-x: auto;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+/* ---- Câu miễn trừ cuối bài -------------------------------------------- */
+.post-disclaimer {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  color: var(--secondary);
+  font-style: italic;
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+}
+
+@media (max-width: 480px) {
+  .stat .stat-num { font-size: 1.5rem; }
+}
