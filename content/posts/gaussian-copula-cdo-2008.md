@@ -65,6 +65,16 @@ Theo Michael Lewis (*The Big Short*), chỉ khoảng **1/20 nhà đầu tư trê
 
 Theo điều tra của ProPublica ("The Magnetar Trade", đoạt giải Pulitzer 2011), quỹ **Magnetar Capital** đầu tư vào khoảng 30 CDO (2006–2007) nhưng bị cáo buộc **chủ động yêu cầu đưa các trái phiếu rủi ro cao hơn vào cấu trúc CDO** (nhờ nắm phần tranche rủi ro nhất nên có quyền chọn tài sản), đồng thời đặt cược short chính các CDO đó. Kết quả: **96% giao dịch liên quan Magnetar vỡ nợ vào cuối 2008**, so với mức nền 68% của CDO thông thường cùng giai đoạn — cho thấy hành vi này có thể đã kéo dài và làm trầm trọng thêm bong bóng thay vì chỉ khai thác nó. SEC điều tra nhiều ngân hàng liên quan nhưng chưa từng khởi tố chính Magnetar.
 
+## Bài học rút ra: rủi ro mô hình và cái bẫy của một tham số duy nhất
+
+Câu chuyện này thường được kể như "một công thức làm sập Phố Wall", nhưng bài học sâu hơn không nằm ở toán học của Li mà ở cách con người *dùng* nó:
+
+- **Rủi ro nằm ở giả định, không ở công thức.** Bản thân Gaussian Copula chỉ là một cách tham số hóa tương quan. Sai lầm chí mạng là **coi tham số tương quan là một hằng số ổn định** — trong khi tương quan tài chính nổi tiếng là bất ổn và có xu hướng nhảy vọt về gần 1 đúng lúc thị trường căng thẳng nhất (khi ta cần nó thấp nhất).
+- **Một con số nén cả một thế giới rủi ro.** Việc dồn toàn bộ mối quan hệ vỡ nợ chằng chịt giữa hàng nghìn khoản vay vào **một tham số duy nhất** khiến mô hình trông gọn gàng và đáng tin, đồng thời giấu mất "tail dependence" — khả năng mọi thứ đổ cùng lúc.
+- **Cơ chế khuyến khích lấn át sự hoài nghi.** Mô hình mở khóa một thị trường sinh lời khổng lồ (CDO được gắn nhãn AAA), nên áp lực doanh thu khiến ngân hàng, tổ chức xếp hạng và cơ quan quản lý tiếp tục dựa vào nó ngay cả khi giới hạn đã được cảnh báo công khai. Người cảnh báo tồn tại; cái thiếu là động cơ để lắng nghe.
+
+Điểm chung với mọi thảm họa "rủi ro mô hình": mô hình không giết ai, nhưng **niềm tin mù quáng vào một mô hình tiện lợi thì có thể**.
+
 ## Nguồn
 
 - Felix Salmon — *The Formula That Killed Wall Street* (Wired).

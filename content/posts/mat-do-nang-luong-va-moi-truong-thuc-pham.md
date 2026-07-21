@@ -39,6 +39,15 @@ Ngoài mật độ, còn một trục nữa là **độ no tạo ra trên mỗi 
 
 Đây là lý do nước ngọt, trà sữa, sinh tố ngọt là nguồn tăng cân âm thầm.
 
+### Cảm giác no được điều khiển bởi nhiều tín hiệu, không chỉ "dạ dày đầy"
+
+Vì sao thức ăn đặc calo và calo lỏng qua mặt được cơ chế điều tiết? Vì no là một hệ nhiều lớp tín hiệu, và thực phẩm hiện đại lách qua từng lớp:
+
+- **Căng cơ học ở dạ dày:** thể tích và chất xơ kích hoạt các thụ thể căng, báo "đầy". Thức ăn đặc calo, ít xơ chiếm ít thể tích nên kích hoạt yếu.
+- **Hóc-môn ruột:** đạm, chất xơ và chất béo kích thích tiết các hóc-môn no như **CCK, GLP-1, PYY** và ức chế **ghrelin** (hóc-môn đói). Đồ ăn siêu chế biến ăn quá nhanh khiến các tín hiệu chậm này tới *sau khi* đã nạp thừa.
+- **"Đòn bẩy đạm" (protein leverage):** có giả thuyết cho rằng cơ thể ăn cho tới khi đủ *đạm*; khẩu phần loãng đạm (nhiều tinh bột/đường tinh luyện) khiến ta ăn nhiều tổng calo hơn mới chạm ngưỡng đạm cần.
+- **Tốc độ nhai và xử lý ở miệng:** nhai lâu bản thân nó là một tín hiệu điều tiết; thức ăn mềm, nuốt nhanh cắt ngắn tín hiệu này.
+
 ## Thực phẩm siêu chế biến — được thiết kế để ăn nhiều
 
 Thực phẩm siêu chế biến (UPF) mềm, đậm vị, ít chất xơ → nhai ít, nuốt nhanh, tín hiệu no tới *sau khi* đã nạp thừa.

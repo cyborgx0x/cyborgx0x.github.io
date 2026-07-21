@@ -33,9 +33,22 @@ Ngôn ngữ cắt phổ màu liên tục thành các **từ chỉ màu** khác n
 
 → **Cái tên tạo ra thao tác nhận thức khác nhau.** Người có phạm trù thì "thấy"; người không có phạm trù thì trượt qua.
 
+## Bối cảnh: vì sao Sapolsky mở đầu cả khóa học bằng ý này
+
+Đây là bài giảng đầu tiên của một khóa về **sinh học hành vi người** — môn tìm cách giải thích vì sao con người hành xử như họ hành xử. Sapolsky đặt cảnh báo về tư duy phân loại ngay ở đầu vì cả khóa học sẽ liên tục nhìn *cùng một hành vi* qua nhiều "cái xô" khác nhau: thần kinh, nội tiết, tiến hóa, phát triển, văn hóa. Thông điệp nền là: **không cái xô nào trong số đó là "nguyên nhân thật"** — chúng là các lát cắt của một hiện tượng liên tục. Ai bám chặt vào một lát cắt (ví dụ "đây là do gen") và bỏ qua các lát khác là đã phạm đúng cái lỗi phân loại mà bài giảng cảnh báo.
+
+## Vì sao đây không chỉ là chuyện học thuật
+
+Sức mạnh của phân loại nằm ở chỗ nó tiết kiệm công nhận thức, nhưng cái giá xuất hiện khi ta **quên rằng ranh giới là do mình dựng lên**:
+
+- **Phóng đại khác biệt qua ranh giới** là cơ chế nằm dưới nhiều định kiến: khi đã xếp người vào hai nhóm "ta" và "họ", trí óc tự động thổi phồng khác biệt giữa hai nhóm và làm mờ khác biệt bên trong mỗi nhóm — dù ranh giới đó thường tùy tiện.
+- **Nhầm cái tên là hiện thực** khiến ta tranh cãi về nhãn thay vì về hiện tượng. Rất nhiều tranh luận "A có phải là B không" thực chất chỉ là tranh luận về nơi ta *chọn* vẽ đường, chứ không có một đường có sẵn trong tự nhiên để tìm ra.
+
+Điều tinh tế là Sapolsky **không** kêu gọi bỏ phân loại — điều đó bất khả. Ông kêu gọi giữ ý thức rằng cái xô là công cụ của ta, không phải cấu trúc của thế giới, để có thể đổi xô khi cần và không lẫn bản đồ với lãnh thổ.
+
 ## Một hệ quả đáng giữ lại
 
-Ý cốt lõi kéo sang được nhiều lĩnh vực: **chỉ phần thông tin đã được *gọi tên / phân loại* mới trở thành thứ có thể xử lý và thao tác.** Thông tin thô, chưa có phạm trù để neo vào, thường trượt qua nhận thức mà không để lại dấu vết — dù về mặt tín hiệu, nó vẫn ở đó.
+Ý cốt lõi kéo sang được nhiều lĩnh vực: **chỉ phần thông tin đã được *gọi tên / phân loại* mới trở thành thứ có thể xử lý và thao tác.** Thông tin thô, chưa có phạm trù để neo vào, thường trượt qua nhận thức mà không để lại dấu vết — dù về mặt tín hiệu, nó vẫn ở đó. Đây cũng là vì sao việc *có thêm một cái tên* (một khái niệm mới, một từ mới) đôi khi làm ta "thấy" được thứ trước đó vẫn hiển hiện trước mắt mà không nhận ra.
 
 ## Nguồn
 

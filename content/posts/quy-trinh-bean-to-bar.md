@@ -36,6 +36,16 @@ Quả ca cao → tách hạt → <strong>LÊN MEN</strong> → phơi khô → <s
 
 Ba bước in đậm — **lên men, conching, temper** — là nơi tay nghề tạo ra khác biệt lớn nhất giữa sô cô la thường và sô cô la hảo hạng.
 
+## Vì sao ba bước đó quyết định nhiều nhất
+
+- **Lên men là bước không thể sửa về sau.** Hương vị nền của một mẻ ca cao gần như được "khóa" ở đây: enzyme trong lớp cùi và vi sinh vật sinh ra các *tiền chất hương* (aldehyde, ester, rượu bậc thấp). Lên men thiếu thì hạt nhạt và chua; lên men quá thì sinh mùi khó chịu. Rang và conching chỉ *bộc lộ* những gì lên men đã tạo ra, không thêm được cái vốn không có.
+- **Rang là nơi phản ứng Maillard "vẽ" nốt hương.** Cùng một mẻ hạt, rang nhẹ giữ nốt trái cây và axit tươi, rang đậm cho nốt hạt, cà phê, nướng. Đây là biến số mà mỗi nhà làm điều chỉnh theo bản sắc riêng.
+- **Conching đánh đổi thời gian lấy độ mượt và độ sạch vị.** Conching càng lâu càng bay hết vị chua gắt và càng mượt, nhưng quá tay thì mất luôn cả nốt hương tươi mong muốn — nên thời lượng là một lựa chọn phong cách, không có con số "đúng" tuyệt đối.
+
+## Một điểm hay nhầm: phần trăm ca cao nói lên điều gì
+
+Con số "70%" trên thanh sô cô la là **tổng khối lượng đến từ hạt ca cao** (rắn ca cao cộng bơ ca cao), phần còn lại chủ yếu là đường (và sữa nếu có). Vì vậy phần trăm cao **không** đồng nghĩa ngon hơn hay đắng hơn một cách cố định: một thanh 70% từ hạt lên men khéo có thể ngọt dịu và thơm hơn một thanh 85% từ hạt kém. Phần trăm cho biết *tỉ lệ*, không cho biết *chất lượng nguyên liệu* hay *tay nghề* — hai thứ nằm ở ba bước phía trên.
+
 ## Đọc thêm trong cụm bài sô cô la
 
 - [Giống ca cao và câu chuyện Marou](/posts/giong-ca-cao-va-marou-viet-nam/) — nguyên liệu gốc quyết định trần chất lượng.
